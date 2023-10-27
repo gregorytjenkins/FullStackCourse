@@ -27,7 +27,7 @@
     <div><strong>0.4: New note diagram</strong><br>
         Create a similar diagram depicting the situation where the user creates a new note on the page <a target="blank" href="https://studies.cs.helsinki.fi/exampleapp/notes">https://studies.cs.helsinki.fi/exampleapp/notes</a> by writing something into the text field and clicking the Save button.</div><br>
 
-    <img src="0-04-sequence-diagram-add-note.png" alt="sequence diagram" style="max-width: 100%; height: auto;" />
+    <img src="https://github.com/gregorytjenkins/FullStackCourse/blob/main/part0/0-04-sequence-diagram-add-note.png" alt="sequence diagram" style="max-width: 100%; height: auto;" />
 
     <hr style="border-top:1px solid black;">
 
